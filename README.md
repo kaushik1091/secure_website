@@ -3,6 +3,8 @@ secure_website
 
 <h4>Attempt to create a secure website considering OWASP standards</h4>
 
+<h5>This project is not completely implemented, but the code to secure is fully functional</h5>
+
 This code tries to defend the website against possible attacks of:<br/>
     SQL Injections<br/>
     Session Hijacking<br/>

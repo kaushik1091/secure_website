@@ -11,5 +11,5 @@ This code tries to defend the website against possible attacks of:<br/>
 
 It is achieved through Input/URL sanitization, encryption methods, a proper session start/stop/check, brute-force checking through time-stamps etc.
 
-This is an implementation to learn how to secure-login based on a project -
+This is an implementation to learn how to secure-login based on a github project -
 https://github.com/peredurabefrog/phpSecureLogin
